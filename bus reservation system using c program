@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-char ch[10][130]= {"Manglore Express","Karwar Express","Airavat Express","SeaBird Express","Newport Express","VRL Express"};
+char ch[10][130]= {"KPN Travels","SRS Travels","TNSTC (Tamil Nadu State Transport Corporation)","VRL Travels","Karnataka State Road Transport Corporation (KSRTC)","Royal Travels"};
 char name[32][100]= {'\0'};
 char number[32][2]= {'\0'};
 int num1[32]= {0};
